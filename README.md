@@ -2,7 +2,7 @@
 ```
 open termux 
 pkg update
-pkg install git ffmeg
+pkg install git ffmpeg
 
 git clone -b Generic https://github.com/Linux-On-Whyred/Create_Splash_Xiaomi_Note_5_Pro.git splash
 
